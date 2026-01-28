@@ -8,7 +8,7 @@
 A modern, responsive Travel Journal built with React. This project displays a beautiful collection of travel destinations, featuring real-time data mapping, custom components, and a clean UI.
 
 ## 🚀 Live Demo
-**Check out the live project here:** [INSERT YOUR RENDER/VERCEL LINK HERE]
+**Check out the live project here:** https://zubair-travel-journal.onrender.com/
 
 ---
 
