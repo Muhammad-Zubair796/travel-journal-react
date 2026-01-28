@@ -50,3 +50,11 @@ I connected this repository to **Render**, setting up a CI/CD pipeline. Now, eve
 1. Clone the repo:
    ```bash
    git clone [https://github.com/Muhammad-Zubair796/travel-journal-react.git](https://github.com/Muhammad-Zubair796/travel-journal-react.git)
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run development server:
+   ```bash
+   npm run dev
+## Author:
+Muhammad Zubair
